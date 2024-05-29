@@ -1,0 +1,14 @@
+E:\Codegym\c# start\Timmin\bin\Debug\net8.0\Timmin.exe
+E:\Codegym\c# start\Timmin\bin\Debug\net8.0\Timmin.deps.json
+E:\Codegym\c# start\Timmin\bin\Debug\net8.0\Timmin.runtimeconfig.json
+E:\Codegym\c# start\Timmin\bin\Debug\net8.0\Timmin.dll
+E:\Codegym\c# start\Timmin\bin\Debug\net8.0\Timmin.pdb
+E:\Codegym\c# start\Timmin\obj\Debug\net8.0\Timmin.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codegym\c# start\Timmin\obj\Debug\net8.0\Timmin.AssemblyInfoInputs.cache
+E:\Codegym\c# start\Timmin\obj\Debug\net8.0\Timmin.AssemblyInfo.cs
+E:\Codegym\c# start\Timmin\obj\Debug\net8.0\Timmin.csproj.CoreCompileInputs.cache
+E:\Codegym\c# start\Timmin\obj\Debug\net8.0\Timmin.dll
+E:\Codegym\c# start\Timmin\obj\Debug\net8.0\refint\Timmin.dll
+E:\Codegym\c# start\Timmin\obj\Debug\net8.0\Timmin.pdb
+E:\Codegym\c# start\Timmin\obj\Debug\net8.0\Timmin.genruntimeconfig.cache
+E:\Codegym\c# start\Timmin\obj\Debug\net8.0\ref\Timmin.dll
